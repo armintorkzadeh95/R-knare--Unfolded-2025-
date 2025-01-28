@@ -1,7 +1,11 @@
 {
   "name": "My First Figma Plugin",
-  "id": "my-first-plugin",
-  "editorType": ["figma"], 
+  "id": "1465957414977869348",
+  "editorType": ["figma", "dev"], 
   "api": "1.0.0",
-  "main": "ui.html"
+  "main": "ui.html",
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+  "allowedDomains": ["https://example.com"]
+}
 }
