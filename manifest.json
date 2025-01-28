@@ -1,7 +1,7 @@
 {
-    "name": "Countdown Timer",
-    "id": "countdown-timer-plugin",
-    "api": "1.0.0",
-    "main": "ui.html",
-    "editorType": ["figma"]
-  }
+  "name": "My First Figma Plugin",
+  "id": "my-first-plugin",
+  "editorType": ["figma"], 
+  "api": "1.0.0",
+  "main": "ui.html"
+}
