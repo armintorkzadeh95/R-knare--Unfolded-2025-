@@ -1,0 +1,7 @@
+{
+    "name": "Countdown Timer",
+    "id": "countdown-timer-plugin",
+    "api": "1.0.0",
+    "main": "ui.html",
+    "editorType": ["figma"]
+  }
